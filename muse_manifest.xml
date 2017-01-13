@@ -1,0 +1,161 @@
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="onchania.com" resolutions="1x" timestamp="1484339717344">
+  <folder name="css">
+    <file name="site_global.css" crc="99216443"/>
+    <file name="master_a-master.css" crc="147663802" ref="index"/>
+    <file name="master_b-master.css" crc="4098994725" ref="untitled-2"/>
+    <file name="untitled-2.css" crc="3894691852" ref="untitled-2"/>
+    <file name="index.css" crc="3839922785" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="clearsans-bold-webfont.woff" crc="3989896230"/>
+    <file name="clearsans-bold-webfont.eot" crc="529639103"/>
+    <file name="clearsans-medium-webfont.woff" crc="46730272"/>
+    <file name="clearsans-medium-webfont.eot" crc="481254677"/>
+    <file name="garamclareg-webfont.woff" crc="4078099516"/>
+    <file name="garamclareg-webfont.eot" crc="264887310"/>
+    <file name="social_shapes-webfont.woff" crc="4101603318"/>
+    <file name="social_shapes-webfont.eot" crc="3958280079"/>
+    <file name="social_shapes-webfont.svg" crc="3840866292"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:untitled-2"/>
+    <file name="museutils.js" crc="4148063285" ref="index:untitled-2"/>
+    <file name="whatinput.js" crc="86476730" ref="index:untitled-2"/>
+    <file name="museconfig.js" crc="4179431180" ref="index:untitled-2"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index:untitled-2"/>
+    <file name="webpro.js" crc="3986320349" ref="index"/>
+    <file name="musewpslideshow.js" crc="405464237" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="305414130" ref="index"/>
+    <file name="touchswipe.js" crc="221459597" ref="index"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:untitled-2"/>
+    <file name="jquery.scrolleffects.js" crc="3801019579" ref="index:untitled-2"/>
+    <file name="require.js" crc="4159430777" ref="index:untitled-2"/>
+  </folder>
+  <folder name="images">
+    <file name="16_20121119_3022.jpg" crc="286289714" ref="index:untitled-2"/>
+    <file name="start bg 08.jpg" crc="173415534" ref="index"/>
+    <file name="smokeloop_00000.png" crc="454672089" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="smokeloop_00001.png" crc="4031885151" seo="true" ref="index"/>
+    <file name="smokeloop_00002.png" crc="350775251" seo="true" ref="index"/>
+    <file name="smokeloop_00003.png" crc="469797462" seo="true" ref="index"/>
+    <file name="smokeloop_00004.png" crc="4233953358" seo="true" ref="index"/>
+    <file name="smokeloop_00005.png" crc="456541280" seo="true" ref="index"/>
+    <file name="smokeloop_00006.png" crc="4182389957" seo="true" ref="index"/>
+    <file name="smokeloop_00007.png" crc="382010138" seo="true" ref="index"/>
+    <file name="smokeloop_00008.png" crc="20329616" seo="true" ref="index"/>
+    <file name="smokeloop_00009.png" crc="4179812979" seo="true" ref="index"/>
+    <file name="smokeloop_00010.png" crc="3928194447" seo="true" ref="index"/>
+    <file name="smokeloop_00011.png" crc="280623458" seo="true" ref="index"/>
+    <file name="smokeloop_00012.png" crc="5100710" seo="true" ref="index"/>
+    <file name="smokeloop_00013.png" crc="424526679" seo="true" ref="index"/>
+    <file name="smokeloop_00014.png" crc="4213203382" seo="true" ref="index"/>
+    <file name="smokeloop_00015.png" crc="157443827" seo="true" ref="index"/>
+    <file name="smokeloop_00016.png" crc="4187471615" seo="true" ref="index"/>
+    <file name="smokeloop_00017.png" crc="3871415596" seo="true" ref="index"/>
+    <file name="smokeloop_00018.png" crc="4242604581" seo="true" ref="index"/>
+    <file name="smokeloop_00019.png" crc="520317069" seo="true" ref="index"/>
+    <file name="smokeloop_00020.png" crc="3999933087" seo="true" ref="index"/>
+    <file name="smokeloop_00021.png" crc="3839175698" seo="true" ref="index"/>
+    <file name="smokeloop_00022.png" crc="4053141328" seo="true" ref="index"/>
+    <file name="smokeloop_00023.png" crc="4184592976" seo="true" ref="index"/>
+    <file name="smokeloop_00024.png" crc="354289667" seo="true" ref="index"/>
+    <file name="smokeloop_00025.png" crc="4036589418" seo="true" ref="index"/>
+    <file name="smokeloop_00026.png" crc="190519609" seo="true" ref="index"/>
+    <file name="smokeloop_00027.png" crc="3946875645" seo="true" ref="index"/>
+    <file name="smokeloop_00028.png" crc="230389351" seo="true" ref="index"/>
+    <file name="smokeloop_00029.png" crc="4099101231" seo="true" ref="index"/>
+    <file name="smokeloop_00030.png" crc="437848445" seo="true" ref="index"/>
+    <file name="smokeloop_00031.png" crc="3861654525" seo="true" ref="index"/>
+    <file name="smokeloop_00032.png" crc="283543500" seo="true" ref="index"/>
+    <file name="smokeloop_00033.png" crc="297934345" seo="true" ref="index"/>
+    <file name="smokeloop_00034.png" crc="266774790" seo="true" ref="index"/>
+    <file name="smokeloop_00035.png" crc="3841939760" seo="true" ref="index"/>
+    <file name="smokeloop_00036.png" crc="41812081" seo="true" ref="index"/>
+    <file name="smokeloop_00037.png" crc="4247686155" seo="true" ref="index"/>
+    <file name="smokeloop_00038.png" crc="155251131" seo="true" ref="index"/>
+    <file name="smokeloop_00039.png" crc="4273057827" seo="true" ref="index"/>
+    <file name="smokeloop_00040.png" crc="3842616840" seo="true" ref="index"/>
+    <file name="smokeloop_00041.png" crc="4020382764" seo="true" ref="index"/>
+    <file name="smokeloop_00042.png" crc="454298483" seo="true" ref="index"/>
+    <file name="smokeloop_00043.png" crc="3837523218" seo="true" ref="index"/>
+    <file name="smokeloop_00044.png" crc="74569644" seo="true" ref="index"/>
+    <file name="smokeloop_00045.png" crc="3898984087" seo="true" ref="index"/>
+    <file name="smokeloop_00046.png" crc="269479333" seo="true" ref="index"/>
+    <file name="smokeloop_00047.png" crc="4058793287" seo="true" ref="index"/>
+    <file name="smokeloop_00048.png" crc="3902014560" seo="true" ref="index"/>
+    <file name="smokeloop_00049.png" crc="3912019177" seo="true" ref="index"/>
+    <file name="smokeloop_00050.png" crc="407997677" seo="true" ref="index"/>
+    <file name="smokeloop_00051.png" crc="3856975383" seo="true" ref="index"/>
+    <file name="smokeloop_00052.png" crc="4189393769" seo="true" ref="index"/>
+    <file name="smokeloop_00053.png" crc="86885775" seo="true" ref="index"/>
+    <file name="smokeloop_00054.png" crc="4279478750" seo="true" ref="index"/>
+    <file name="smokeloop_00055.png" crc="343721942" seo="true" ref="index"/>
+    <file name="smokeloop_00056.png" crc="4143491323" seo="true" ref="index"/>
+    <file name="smokeloop_00057.png" crc="4264864172" seo="true" ref="index"/>
+    <file name="smokeloop_00058.png" crc="4166133191" seo="true" ref="index"/>
+    <file name="smokeloop_00059.png" crc="3844028643" seo="true" ref="index"/>
+    <file name="smokeloop_00060.png" crc="432780014" seo="true" ref="index"/>
+    <file name="smokeloop_00061.png" crc="3784353852" seo="true" ref="index"/>
+    <file name="smokeloop_00062.png" crc="4113411975" seo="true" ref="index"/>
+    <file name="smokeloop_00063.png" crc="3819191203" seo="true" ref="index"/>
+    <file name="smokeloop_00064.png" crc="327411889" seo="true" ref="index"/>
+    <file name="smokeloop_00065.png" crc="523844429" seo="true" ref="index"/>
+    <file name="smokeloop_00066.png" crc="484146951" seo="true" ref="index"/>
+    <file name="smokeloop_00067.png" crc="4108738769" seo="true" ref="index"/>
+    <file name="smokeloop_00068.png" crc="379002850" seo="true" ref="index"/>
+    <file name="smokeloop_00069.png" crc="62613106" seo="true" ref="index"/>
+    <file name="smokeloop_00070.png" crc="216004136" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="012_cup start lighter.png" crc="3982598514" ref="index"/>
+    <file name="u18556.png" crc="3790825874" ref="index"/>
+    <file name="u18556-r.png" crc="241459508" ref="index"/>
+    <file name="u18556-a.png" crc="241459508" ref="index"/>
+    <file name="u18595.png" crc="138106618" ref="index"/>
+    <file name="u18595-r.png" crc="3969392661" ref="index"/>
+    <file name="u18595-a.png" crc="3969392661" ref="index"/>
+    <file name="u18638.png" crc="510560532" ref="index"/>
+    <file name="u18638-r.png" crc="367589940" ref="index"/>
+    <file name="u18638-a.png" crc="367589940" ref="index"/>
+    <file name="u18680.png" crc="3812663019" ref="index"/>
+    <file name="u18680-r.png" crc="75467515" ref="index"/>
+    <file name="u18680-a.png" crc="75467515" ref="index"/>
+    <file name="u18710.png" crc="4027621177" ref="index"/>
+    <file name="u18710-r.png" crc="4277245654" ref="index"/>
+    <file name="u18710-a.png" crc="4277245654" ref="index"/>
+    <file name="20.jpg" crc="3975627099" ref="index"/>
+    <file name="0134_cup.png" crc="3987567917" ref="index"/>
+    <file name="u18757-4.png" crc="4152642522" ref="index"/>
+    <file name="u18766-4.png" crc="4185000816" ref="index"/>
+    <file name="012_cup 2.png" crc="4102558383" ref="index"/>
+    <file name="spitia.jpg" crc="307085247" ref="index"/>
+    <file name="cup brazil ftero.png" crc="356133836" ref="index"/>
+    <file name="05 man2.jpg" crc="82553351" ref="index"/>
+    <file name="u18775-4.png" crc="3852592147" ref="index"/>
+    <file name="012_cup factory.png" crc="270995856" ref="index"/>
+    <file name="factory.jpg" crc="424508660" ref="index"/>
+    <file name="u18784-4.png" crc="3809567234" ref="index"/>
+    <file name="12_cup dikastiria.png" crc="110483685" ref="index"/>
+    <file name="012_cup dikastiria 89.jpg" crc="3929151824" ref="index"/>
+    <file name="u19168-4.png" crc="71746924" ref="index"/>
+    <file name="u19277-4.png" crc="478855618" ref="index"/>
+    <file name="cup koukapi.png" crc="3939676385" ref="index"/>
+    <file name="koumkapi 2.jpg" crc="191466134" ref="index"/>
+    <file name="u19336-4.png" crc="73831855" ref="index"/>
+    <file name="old_wall_web.jpg" crc="30911305" ref="index"/>
+    <file name="012_cup op ok.png" crc="487684560" ref="index"/>
+    <file name="download.jpg" crc="453087487" ref="untitled-2"/>
+    <file name="logo gr .png" crc="3786262579" ref="untitled-2"/>
+    <file name="food-beans-coffee-drink.jpg" crc="445096856" ref="untitled-2"/>
+    <file name="pack.png" crc="3775990390" ref="untitled-2"/>
+    <file name="u18988-4.png" crc="3862342359" ref="untitled-2"/>
+    <file name="pack-u18966-fr.png" crc="3767960375" ref="untitled-2"/>
+    <file name="u19013-4.png" crc="3810419831" ref="untitled-2"/>
+    <file name="enjoy the best freshly-roasted coffee beans delivered straight to your door.jpg" crc="394006420" ref="untitled-2"/>
+    <file name="pexels-photo-97050.jpg" crc="4253390797" ref="untitled-2"/>
+    <file name="restaurant-person-woman-coffee.jpg" crc="188851013" ref="untitled-2"/>
+    <file name="u19070-4.png" crc="3810419831" ref="untitled-2"/>
+  </folder>
+  <file name="index.html" crc="226958281" seo="true" mt="1484339680863" redirect="true"/>
+  <file name="untitled-2.html" crc="4082114547" seo="true" mt="1484306591061" redirect="true"/>
+</manifest>
