@@ -1,14 +1,12 @@
-<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="onchania.com" resolutions="1x" timestamp="1484339717344">
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="onchania.com" resolutions="1x" timestamp="1484524242430">
   <folder name="css">
     <file name="site_global.css" crc="99216443"/>
     <file name="master_a-master.css" crc="147663802" ref="index"/>
     <file name="master_b-master.css" crc="4098994725" ref="untitled-2"/>
-    <file name="untitled-2.css" crc="3894691852" ref="untitled-2"/>
-    <file name="index.css" crc="3839922785" ref="index"/>
+    <file name="untitled-2.css" crc="404447448" ref="untitled-2"/>
+    <file name="index.css" crc="3898016169" ref="index"/>
   </folder>
   <folder name="fonts">
-    <file name="clearsans-bold-webfont.woff" crc="3989896230"/>
-    <file name="clearsans-bold-webfont.eot" crc="529639103"/>
     <file name="clearsans-medium-webfont.woff" crc="46730272"/>
     <file name="clearsans-medium-webfont.eot" crc="481254677"/>
     <file name="garamclareg-webfont.woff" crc="4078099516"/>
@@ -107,7 +105,31 @@
     <file name="smokeloop_00069.png" crc="62613106" seo="true" ref="index"/>
     <file name="smokeloop_00070.png" crc="216004136" seo="true" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="012_cup start lighter.png" crc="3982598514" ref="index"/>
+    <file name="012_cup start lighter.png" crc="465596873" ref="index"/>
+    <file name="0134_cup.png" crc="3987567917" ref="index"/>
+    <file name="20.jpg" crc="3975627099" ref="index"/>
+    <file name="up kafenio-diskos 2.png" crc="200844185" ref="index"/>
+    <file name="kafenio.jpg" crc="4087725368" ref="index"/>
+    <file name="05 man2.jpg" crc="82553351" ref="index"/>
+    <file name="cup brazil ftero.png" crc="356133836" ref="index"/>
+    <file name="012_cup factory.png" crc="3779754451" ref="index"/>
+    <file name="factory.jpg" crc="424508660" ref="index"/>
+    <file name="12_cup dikastiria.png" crc="110483685" ref="index"/>
+    <file name="012_cup dikastiria 89.jpg" crc="3929151824" ref="index"/>
+    <file name="cup mousouron.png" crc="163666603" ref="index"/>
+    <file name="kamara katolas.jpg" crc="246739838" ref="index"/>
+    <file name="cup koukapi -.png" crc="136622864" ref="index"/>
+    <file name="koumkapi 2.jpg" crc="191466134" ref="index"/>
+    <file name="cup bottles ok2.png" crc="18900309" ref="index"/>
+    <file name="spitia.jpg" crc="183473582" ref="index"/>
+    <file name="u18766-4.png" crc="4185000816" ref="index"/>
+    <file name="u18757-4.png" crc="4152642522" ref="index"/>
+    <file name="u18775-4.png" crc="3852592147" ref="index"/>
+    <file name="u18784-4.png" crc="3809567234" ref="index"/>
+    <file name="u19168-4.png" crc="71746924" ref="index"/>
+    <file name="u19277-4.png" crc="453312948" ref="index"/>
+    <file name="u19796-4.png" crc="3858808355" ref="index"/>
+    <file name="u19336-4.png" crc="73831855" ref="index"/>
     <file name="u18556.png" crc="3790825874" ref="index"/>
     <file name="u18556-r.png" crc="241459508" ref="index"/>
     <file name="u18556-a.png" crc="241459508" ref="index"/>
@@ -123,27 +145,6 @@
     <file name="u18710.png" crc="4027621177" ref="index"/>
     <file name="u18710-r.png" crc="4277245654" ref="index"/>
     <file name="u18710-a.png" crc="4277245654" ref="index"/>
-    <file name="20.jpg" crc="3975627099" ref="index"/>
-    <file name="0134_cup.png" crc="3987567917" ref="index"/>
-    <file name="u18757-4.png" crc="4152642522" ref="index"/>
-    <file name="u18766-4.png" crc="4185000816" ref="index"/>
-    <file name="012_cup 2.png" crc="4102558383" ref="index"/>
-    <file name="spitia.jpg" crc="307085247" ref="index"/>
-    <file name="cup brazil ftero.png" crc="356133836" ref="index"/>
-    <file name="05 man2.jpg" crc="82553351" ref="index"/>
-    <file name="u18775-4.png" crc="3852592147" ref="index"/>
-    <file name="012_cup factory.png" crc="270995856" ref="index"/>
-    <file name="factory.jpg" crc="424508660" ref="index"/>
-    <file name="u18784-4.png" crc="3809567234" ref="index"/>
-    <file name="12_cup dikastiria.png" crc="110483685" ref="index"/>
-    <file name="012_cup dikastiria 89.jpg" crc="3929151824" ref="index"/>
-    <file name="u19168-4.png" crc="71746924" ref="index"/>
-    <file name="u19277-4.png" crc="478855618" ref="index"/>
-    <file name="cup koukapi.png" crc="3939676385" ref="index"/>
-    <file name="koumkapi 2.jpg" crc="191466134" ref="index"/>
-    <file name="u19336-4.png" crc="73831855" ref="index"/>
-    <file name="old_wall_web.jpg" crc="30911305" ref="index"/>
-    <file name="012_cup op ok.png" crc="487684560" ref="index"/>
     <file name="download.jpg" crc="453087487" ref="untitled-2"/>
     <file name="logo gr .png" crc="3786262579" ref="untitled-2"/>
     <file name="food-beans-coffee-drink.jpg" crc="445096856" ref="untitled-2"/>
@@ -156,6 +157,6 @@
     <file name="restaurant-person-woman-coffee.jpg" crc="188851013" ref="untitled-2"/>
     <file name="u19070-4.png" crc="3810419831" ref="untitled-2"/>
   </folder>
-  <file name="index.html" crc="226958281" seo="true" mt="1484339680863" redirect="true"/>
-  <file name="untitled-2.html" crc="4082114547" seo="true" mt="1484306591061" redirect="true"/>
+  <file name="index.html" crc="4097859120" seo="true" mt="1484524064419" redirect="true"/>
+  <file name="untitled-2.html" crc="4286400194" seo="true" mt="1484503413491" redirect="true"/>
 </manifest>
