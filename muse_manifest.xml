@@ -1,162 +1,238 @@
-<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="onchania.com" resolutions="1x" timestamp="1484524242430">
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="onchania.com" resolutions="1x" timestamp="1485606878351">
   <folder name="css">
-    <file name="site_global.css" crc="99216443"/>
-    <file name="master_a-master.css" crc="147663802" ref="index"/>
-    <file name="master_b-master.css" crc="4098994725" ref="untitled-2"/>
-    <file name="untitled-2.css" crc="404447448" ref="untitled-2"/>
-    <file name="index.css" crc="3898016169" ref="index"/>
+    <file name="site_global.css" crc="4197653884"/>
+    <file name="master_b-master.css" crc="3894942510" ref="κρασια:logistics:επικοινωνια:ποτα:καφεδεσ"/>
+    <file name="master_a-master.css" crc="217380826" ref="index"/>
+    <file name="______.css" crc="3961198645" ref="κρασια"/>
+    <file name="logistics.css" crc="3774568891" ref="logistics"/>
+    <file name="index.css" crc="3951665788" ref="index"/>
+    <file name="___________.css" crc="3774568891" ref="επικοινωνια"/>
+    <file name="____.css" crc="4204581848" ref="ποτα"/>
+    <file name="_______.css" crc="462434210" ref="καφεδεσ"/>
   </folder>
   <folder name="fonts">
-    <file name="clearsans-medium-webfont.woff" crc="46730272"/>
-    <file name="clearsans-medium-webfont.eot" crc="481254677"/>
-    <file name="garamclareg-webfont.woff" crc="4078099516"/>
-    <file name="garamclareg-webfont.eot" crc="264887310"/>
     <file name="social_shapes-webfont.woff" crc="4101603318"/>
     <file name="social_shapes-webfont.eot" crc="3958280079"/>
     <file name="social_shapes-webfont.svg" crc="3840866292"/>
+    <file name="garamclareg-webfont.woff" crc="4078099516"/>
+    <file name="garamclareg-webfont.eot" crc="264887310"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:untitled-2"/>
-    <file name="museutils.js" crc="4148063285" ref="index:untitled-2"/>
-    <file name="whatinput.js" crc="86476730" ref="index:untitled-2"/>
-    <file name="museconfig.js" crc="4179431180" ref="index:untitled-2"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index:untitled-2"/>
-    <file name="webpro.js" crc="3986320349" ref="index"/>
-    <file name="musewpslideshow.js" crc="405464237" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="305414130" ref="index"/>
-    <file name="touchswipe.js" crc="221459597" ref="index"/>
-    <file name="jquery.watch.js" crc="437028206" ref="index:untitled-2"/>
-    <file name="jquery.scrolleffects.js" crc="3801019579" ref="index:untitled-2"/>
-    <file name="require.js" crc="4159430777" ref="index:untitled-2"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>καφεδεσ:phone>κρασια:phone>ποτα:phone>επικοινωνια:phone>logistics:index:καφεδεσ:κρασια:ποτα:επικοινωνια:logistics"/>
+    <file name="museutils.js" crc="4148063285" ref="phone>index:phone>καφεδεσ:phone>κρασια:phone>ποτα:phone>επικοινωνια:phone>logistics:index:καφεδεσ:κρασια:ποτα:επικοινωνια:logistics"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>καφεδεσ:phone>κρασια:phone>ποτα:phone>επικοινωνια:phone>logistics:index:καφεδεσ:κρασια:ποτα:επικοινωνια:logistics"/>
+    <file name="museconfig.js" crc="4179431180" ref="phone>index:phone>καφεδεσ:phone>κρασια:phone>ποτα:phone>επικοινωνια:phone>logistics:index:καφεδεσ:κρασια:ποτα:επικοινωνια:logistics"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="phone>index:index:καφεδεσ:κρασια:ποτα"/>
+    <file name="webpro.js" crc="3986320349" ref="phone>index:index"/>
+    <file name="musewpslideshow.js" crc="405464237" ref="phone>index:index"/>
+    <file name="jquery.museoverlay.js" crc="305414130" ref="phone>index:index"/>
+    <file name="touchswipe.js" crc="221459597" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="437028206" ref="phone>index:phone>καφεδεσ:phone>κρασια:phone>ποτα:phone>επικοινωνια:phone>logistics:index:καφεδεσ:κρασια:ποτα:επικοινωνια:logistics"/>
+    <file name="jquery.scrolleffects.js" crc="3801019579" ref="phone>index:index:καφεδεσ:κρασια:ποτα:επικοινωνια:logistics"/>
+    <file name="require.js" crc="4159430777" ref="phone>index:phone>καφεδεσ:phone>κρασια:phone>ποτα:phone>επικοινωνια:phone>logistics:index:καφεδεσ:κρασια:ποτα:επικοινωνια:logistics"/>
   </folder>
   <folder name="images">
-    <file name="16_20121119_3022.jpg" crc="286289714" ref="index:untitled-2"/>
-    <file name="start bg 08.jpg" crc="173415534" ref="index"/>
-    <file name="smokeloop_00000.png" crc="454672089" seo="true" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="smokeloop_00001.png" crc="4031885151" seo="true" ref="index"/>
-    <file name="smokeloop_00002.png" crc="350775251" seo="true" ref="index"/>
-    <file name="smokeloop_00003.png" crc="469797462" seo="true" ref="index"/>
-    <file name="smokeloop_00004.png" crc="4233953358" seo="true" ref="index"/>
-    <file name="smokeloop_00005.png" crc="456541280" seo="true" ref="index"/>
-    <file name="smokeloop_00006.png" crc="4182389957" seo="true" ref="index"/>
-    <file name="smokeloop_00007.png" crc="382010138" seo="true" ref="index"/>
-    <file name="smokeloop_00008.png" crc="20329616" seo="true" ref="index"/>
-    <file name="smokeloop_00009.png" crc="4179812979" seo="true" ref="index"/>
-    <file name="smokeloop_00010.png" crc="3928194447" seo="true" ref="index"/>
-    <file name="smokeloop_00011.png" crc="280623458" seo="true" ref="index"/>
-    <file name="smokeloop_00012.png" crc="5100710" seo="true" ref="index"/>
-    <file name="smokeloop_00013.png" crc="424526679" seo="true" ref="index"/>
-    <file name="smokeloop_00014.png" crc="4213203382" seo="true" ref="index"/>
-    <file name="smokeloop_00015.png" crc="157443827" seo="true" ref="index"/>
-    <file name="smokeloop_00016.png" crc="4187471615" seo="true" ref="index"/>
-    <file name="smokeloop_00017.png" crc="3871415596" seo="true" ref="index"/>
-    <file name="smokeloop_00018.png" crc="4242604581" seo="true" ref="index"/>
-    <file name="smokeloop_00019.png" crc="520317069" seo="true" ref="index"/>
-    <file name="smokeloop_00020.png" crc="3999933087" seo="true" ref="index"/>
-    <file name="smokeloop_00021.png" crc="3839175698" seo="true" ref="index"/>
-    <file name="smokeloop_00022.png" crc="4053141328" seo="true" ref="index"/>
-    <file name="smokeloop_00023.png" crc="4184592976" seo="true" ref="index"/>
-    <file name="smokeloop_00024.png" crc="354289667" seo="true" ref="index"/>
-    <file name="smokeloop_00025.png" crc="4036589418" seo="true" ref="index"/>
-    <file name="smokeloop_00026.png" crc="190519609" seo="true" ref="index"/>
-    <file name="smokeloop_00027.png" crc="3946875645" seo="true" ref="index"/>
-    <file name="smokeloop_00028.png" crc="230389351" seo="true" ref="index"/>
-    <file name="smokeloop_00029.png" crc="4099101231" seo="true" ref="index"/>
-    <file name="smokeloop_00030.png" crc="437848445" seo="true" ref="index"/>
-    <file name="smokeloop_00031.png" crc="3861654525" seo="true" ref="index"/>
-    <file name="smokeloop_00032.png" crc="283543500" seo="true" ref="index"/>
-    <file name="smokeloop_00033.png" crc="297934345" seo="true" ref="index"/>
-    <file name="smokeloop_00034.png" crc="266774790" seo="true" ref="index"/>
-    <file name="smokeloop_00035.png" crc="3841939760" seo="true" ref="index"/>
-    <file name="smokeloop_00036.png" crc="41812081" seo="true" ref="index"/>
-    <file name="smokeloop_00037.png" crc="4247686155" seo="true" ref="index"/>
-    <file name="smokeloop_00038.png" crc="155251131" seo="true" ref="index"/>
-    <file name="smokeloop_00039.png" crc="4273057827" seo="true" ref="index"/>
-    <file name="smokeloop_00040.png" crc="3842616840" seo="true" ref="index"/>
-    <file name="smokeloop_00041.png" crc="4020382764" seo="true" ref="index"/>
-    <file name="smokeloop_00042.png" crc="454298483" seo="true" ref="index"/>
-    <file name="smokeloop_00043.png" crc="3837523218" seo="true" ref="index"/>
-    <file name="smokeloop_00044.png" crc="74569644" seo="true" ref="index"/>
-    <file name="smokeloop_00045.png" crc="3898984087" seo="true" ref="index"/>
-    <file name="smokeloop_00046.png" crc="269479333" seo="true" ref="index"/>
-    <file name="smokeloop_00047.png" crc="4058793287" seo="true" ref="index"/>
-    <file name="smokeloop_00048.png" crc="3902014560" seo="true" ref="index"/>
-    <file name="smokeloop_00049.png" crc="3912019177" seo="true" ref="index"/>
-    <file name="smokeloop_00050.png" crc="407997677" seo="true" ref="index"/>
-    <file name="smokeloop_00051.png" crc="3856975383" seo="true" ref="index"/>
-    <file name="smokeloop_00052.png" crc="4189393769" seo="true" ref="index"/>
-    <file name="smokeloop_00053.png" crc="86885775" seo="true" ref="index"/>
-    <file name="smokeloop_00054.png" crc="4279478750" seo="true" ref="index"/>
-    <file name="smokeloop_00055.png" crc="343721942" seo="true" ref="index"/>
-    <file name="smokeloop_00056.png" crc="4143491323" seo="true" ref="index"/>
-    <file name="smokeloop_00057.png" crc="4264864172" seo="true" ref="index"/>
-    <file name="smokeloop_00058.png" crc="4166133191" seo="true" ref="index"/>
-    <file name="smokeloop_00059.png" crc="3844028643" seo="true" ref="index"/>
-    <file name="smokeloop_00060.png" crc="432780014" seo="true" ref="index"/>
-    <file name="smokeloop_00061.png" crc="3784353852" seo="true" ref="index"/>
-    <file name="smokeloop_00062.png" crc="4113411975" seo="true" ref="index"/>
-    <file name="smokeloop_00063.png" crc="3819191203" seo="true" ref="index"/>
-    <file name="smokeloop_00064.png" crc="327411889" seo="true" ref="index"/>
-    <file name="smokeloop_00065.png" crc="523844429" seo="true" ref="index"/>
-    <file name="smokeloop_00066.png" crc="484146951" seo="true" ref="index"/>
-    <file name="smokeloop_00067.png" crc="4108738769" seo="true" ref="index"/>
-    <file name="smokeloop_00068.png" crc="379002850" seo="true" ref="index"/>
-    <file name="smokeloop_00069.png" crc="62613106" seo="true" ref="index"/>
-    <file name="smokeloop_00070.png" crc="216004136" seo="true" ref="index"/>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="16_20121119_3022.jpg" crc="286289714" ref="phone>index:index:καφεδεσ:κρασια:ποτα"/>
+    <file name="cover mob.jpg" crc="159127345" seo="true" ref="phone>index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
+    <file name="mob ikona 02.jpg" crc="4189067043" seo="true" ref="phone>index"/>
+    <file name="mob ikona 03.jpg" crc="4284299944" seo="true" ref="phone>index"/>
+    <file name="ikona mob man.jpg" crc="167910302" seo="true" ref="phone>index"/>
+    <file name="ikona mob factory.jpg" crc="3882158604" seo="true" ref="phone>index"/>
+    <file name="ikonamob wall.jpg" crc="183038667" seo="true" ref="phone>index"/>
+    <file name="mob room.jpg" crc="3820888091" seo="true" ref="phone>index"/>
+    <file name="mob koum.jpg" crc="4002983553" seo="true" ref="phone>index"/>
+    <file name="mob spitia.jpg" crc="474900784" seo="true" ref="phone>index"/>
+    <file name="mob port.jpg" crc="144232058" seo="true" ref="phone>index"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:index"/>
+    <file name="smokeloop_00000.png" crc="454672089" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00001.png" crc="4031885151" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00002.png" crc="350775251" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00003.png" crc="469797462" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00004.png" crc="4233953358" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00005.png" crc="456541280" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00006.png" crc="4182389957" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00007.png" crc="382010138" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00008.png" crc="20329616" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00009.png" crc="4179812979" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00010.png" crc="3928194447" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00011.png" crc="280623458" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00012.png" crc="5100710" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00013.png" crc="424526679" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00014.png" crc="4213203382" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00015.png" crc="157443827" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00016.png" crc="4187471615" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00017.png" crc="3871415596" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00018.png" crc="4242604581" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00019.png" crc="520317069" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00020.png" crc="3999933087" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00021.png" crc="3839175698" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00022.png" crc="4053141328" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00023.png" crc="4184592976" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00024.png" crc="354289667" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00025.png" crc="4036589418" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00026.png" crc="190519609" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00027.png" crc="3946875645" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00028.png" crc="230389351" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00029.png" crc="4099101231" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00030.png" crc="437848445" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00031.png" crc="3861654525" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00032.png" crc="283543500" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00033.png" crc="297934345" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00034.png" crc="266774790" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00035.png" crc="3841939760" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00036.png" crc="41812081" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00037.png" crc="4247686155" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00038.png" crc="155251131" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00039.png" crc="4273057827" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00040.png" crc="3842616840" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00041.png" crc="4020382764" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00042.png" crc="454298483" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00043.png" crc="3837523218" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00044.png" crc="74569644" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00045.png" crc="3898984087" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00046.png" crc="269479333" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00047.png" crc="4058793287" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00048.png" crc="3902014560" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00049.png" crc="3912019177" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00050.png" crc="407997677" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00051.png" crc="3856975383" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00052.png" crc="4189393769" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00053.png" crc="86885775" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00054.png" crc="4279478750" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00055.png" crc="343721942" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00056.png" crc="4143491323" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00057.png" crc="4264864172" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00058.png" crc="4166133191" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00059.png" crc="3844028643" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00060.png" crc="432780014" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00061.png" crc="3784353852" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00062.png" crc="4113411975" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00063.png" crc="3819191203" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00064.png" crc="327411889" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00065.png" crc="523844429" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00066.png" crc="484146951" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00067.png" crc="4108738769" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00068.png" crc="379002850" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00069.png" crc="62613106" seo="true" ref="phone>index:index"/>
+    <file name="smokeloop_00070.png" crc="216004136" seo="true" ref="phone>index:index"/>
+    <file name="cup mob 00.png" crc="176338566" seo="true" ref="phone>index"/>
+    <file name="cup mob 01.png" crc="23829815" seo="true" ref="phone>index"/>
+    <file name="cup coffee mob.png" crc="3828198218" seo="true" ref="phone>index"/>
+    <file name="cup mob office.png" crc="4098006153" seo="true" ref="phone>index"/>
+    <file name="cup mob 04.png" crc="4211921428" seo="true" ref="phone>index"/>
+    <file name="cup mob kamara.png" crc="112975992" seo="true" ref="phone>index"/>
+    <file name="cup mob book.png" crc="3885753653" seo="true" ref="phone>index"/>
+    <file name="cup kafenio mob 04.png" crc="3782794395" seo="true" ref="phone>index"/>
+    <file name="cup mob bottles.png" crc="519734293" seo="true" ref="phone>index"/>
+    <file name="cup mob chania.png" crc="452030094" seo="true" ref="phone>index"/>
+    <file name="empty.png" crc="132084602" seo="true" ref="phone>index"/>
+    <file name="keim 01.png" crc="252096382" seo="true" ref="phone>index"/>
+    <file name="keim 02.png" crc="4129017964" seo="true" ref="phone>index"/>
+    <file name="keim 03.png" crc="3774089557" seo="true" ref="phone>index"/>
+    <file name="keim 04.png" crc="315450132" seo="true" ref="phone>index"/>
+    <file name="keim 05.png" crc="3975613912" seo="true" ref="phone>index"/>
+    <file name="keim 06.png" crc="57505668" seo="true" ref="phone>index"/>
+    <file name="keim 07.png" crc="4265298635" seo="true" ref="phone>index"/>
+    <file name="keim 08.png" crc="4183657859" seo="true" ref="phone>index"/>
+    <file name="keim 09.png" crc="273810916" seo="true" ref="phone>index"/>
+    <file name="menumob white.png" crc="447151716" ref="phone>index"/>
+    <file name="menumob orange.png" crc="405796237" ref="phone>index"/>
+    <file name="kaffedes.png" crc="142942955" ref="phone>index:index"/>
+    <file name="beers.png" crc="4253548454" ref="phone>index:index"/>
+    <file name="krasia.png" crc="4205768059" ref="phone>index:index"/>
+    <file name="logistics.png" crc="161532538" ref="phone>index:index"/>
+    <file name="epikinonia.png" crc="323204250" ref="phone>index:index"/>
+    <file name="menumob close.png" crc="98923682" ref="phone>index"/>
     <file name="012_cup start lighter.png" crc="465596873" ref="index"/>
+    <file name="start bg 08.jpg" crc="3797926816" ref="index"/>
     <file name="0134_cup.png" crc="3987567917" ref="index"/>
-    <file name="20.jpg" crc="3975627099" ref="index"/>
+    <file name="20.jpg" crc="476267093" ref="index"/>
     <file name="up kafenio-diskos 2.png" crc="200844185" ref="index"/>
     <file name="kafenio.jpg" crc="4087725368" ref="index"/>
-    <file name="05 man2.jpg" crc="82553351" ref="index"/>
+    <file name="05 man2.jpg" crc="307579071" ref="index"/>
     <file name="cup brazil ftero.png" crc="356133836" ref="index"/>
     <file name="012_cup factory.png" crc="3779754451" ref="index"/>
-    <file name="factory.jpg" crc="424508660" ref="index"/>
-    <file name="12_cup dikastiria.png" crc="110483685" ref="index"/>
-    <file name="012_cup dikastiria 89.jpg" crc="3929151824" ref="index"/>
-    <file name="cup mousouron.png" crc="163666603" ref="index"/>
+    <file name="factory.jpg" crc="369047511" ref="index"/>
+    <file name="cup kamara ok.png" crc="3327601" ref="index"/>
     <file name="kamara katolas.jpg" crc="246739838" ref="index"/>
-    <file name="cup koukapi -.png" crc="136622864" ref="index"/>
-    <file name="koumkapi 2.jpg" crc="191466134" ref="index"/>
-    <file name="cup bottles ok2.png" crc="18900309" ref="index"/>
-    <file name="spitia.jpg" crc="183473582" ref="index"/>
-    <file name="u18766-4.png" crc="4185000816" ref="index"/>
-    <file name="u18757-4.png" crc="4152642522" ref="index"/>
-    <file name="u18775-4.png" crc="3852592147" ref="index"/>
-    <file name="u18784-4.png" crc="3809567234" ref="index"/>
-    <file name="u19168-4.png" crc="71746924" ref="index"/>
-    <file name="u19277-4.png" crc="453312948" ref="index"/>
-    <file name="u19796-4.png" crc="3858808355" ref="index"/>
-    <file name="u19336-4.png" crc="73831855" ref="index"/>
-    <file name="u18556.png" crc="3790825874" ref="index"/>
-    <file name="u18556-r.png" crc="241459508" ref="index"/>
-    <file name="u18556-a.png" crc="241459508" ref="index"/>
-    <file name="u18595.png" crc="138106618" ref="index"/>
-    <file name="u18595-r.png" crc="3969392661" ref="index"/>
-    <file name="u18595-a.png" crc="3969392661" ref="index"/>
-    <file name="u18638.png" crc="510560532" ref="index"/>
-    <file name="u18638-r.png" crc="367589940" ref="index"/>
-    <file name="u18638-a.png" crc="367589940" ref="index"/>
-    <file name="u18680.png" crc="3812663019" ref="index"/>
-    <file name="u18680-r.png" crc="75467515" ref="index"/>
-    <file name="u18680-a.png" crc="75467515" ref="index"/>
-    <file name="u18710.png" crc="4027621177" ref="index"/>
-    <file name="u18710-r.png" crc="4277245654" ref="index"/>
-    <file name="u18710-a.png" crc="4277245654" ref="index"/>
-    <file name="download.jpg" crc="453087487" ref="untitled-2"/>
-    <file name="logo gr .png" crc="3786262579" ref="untitled-2"/>
-    <file name="food-beans-coffee-drink.jpg" crc="445096856" ref="untitled-2"/>
-    <file name="pack.png" crc="3775990390" ref="untitled-2"/>
-    <file name="u18988-4.png" crc="3862342359" ref="untitled-2"/>
-    <file name="pack-u18966-fr.png" crc="3767960375" ref="untitled-2"/>
-    <file name="u19013-4.png" crc="3810419831" ref="untitled-2"/>
-    <file name="enjoy the best freshly-roasted coffee beans delivered straight to your door.jpg" crc="394006420" ref="untitled-2"/>
-    <file name="pexels-photo-97050.jpg" crc="4253390797" ref="untitled-2"/>
-    <file name="restaurant-person-woman-coffee.jpg" crc="188851013" ref="untitled-2"/>
-    <file name="u19070-4.png" crc="3810419831" ref="untitled-2"/>
+    <file name="cup venizelos.png" crc="4264106747" ref="index"/>
+    <file name="012_cup dikastiria 89.jpg" crc="263547120" ref="index"/>
+    <file name="cup koukapi 1400.png" crc="325612607" ref="index"/>
+    <file name="koum kapi 03.jpg" crc="285440309" ref="index"/>
+    <file name="cup bottles 03.png" crc="182907542" ref="index"/>
+    <file name="spitia black.jpg" crc="86351138" ref="index"/>
+    <file name="cup chania.png" crc="3769959595" ref="index"/>
+    <file name="chania now.jpg" crc="4041758497" ref="index"/>
+    <file name="logo gr .png" crc="232076074" ref="index:καφεδεσ"/>
+    <file name="enjoy the best freshly-roasted coffee beans delivered straight to your door.jpg" crc="394006420" ref="index:καφεδεσ:κρασια:ποτα"/>
+    <file name="pack.png" crc="3775990390" ref="index:καφεδεσ:κρασια:ποτα"/>
+    <file name="back-u24438-fr.png" crc="4004171542" ref="index"/>
+    <file name="istoriko-u20737-fr.png" crc="4176365178" ref="index"/>
+    <file name="istoriko--u20737-r-fr.png" crc="436122066" ref="index"/>
+    <file name="u18757-4.png" crc="364488001" ref="index"/>
+    <file name="u18766-4.png" crc="3860735730" ref="index"/>
+    <file name="u18775-4.png" crc="4201333500" ref="index"/>
+    <file name="u18784-4.png" crc="301068296" ref="index"/>
+    <file name="u19168-4.png" crc="301440949" ref="index"/>
+    <file name="u19796-4.png" crc="3941758442" ref="index"/>
+    <file name="u19277-4.png" crc="4147921435" ref="index"/>
+    <file name="u19336-4.png" crc="4227062812" ref="index"/>
+    <file name="u20089-4.png" crc="3868653663" ref="index"/>
+    <file name="istoriko-u20798-fr.png" crc="169442675" ref="index"/>
+    <file name="istoriko--u20798-r-fr.png" crc="4290788473" ref="index"/>
+    <file name="istoriko-black-u20824-fr.png" crc="3809607818" ref="index"/>
+    <file name="u18556.png" crc="293802654" ref="index"/>
+    <file name="u18556-r.png" crc="3866052726" ref="index"/>
+    <file name="u18556-a.png" crc="3866052726" ref="index"/>
+    <file name="u18595.png" crc="359579585" ref="index"/>
+    <file name="u18595-r.png" crc="516519916" ref="index"/>
+    <file name="u18595-a.png" crc="516519916" ref="index"/>
+    <file name="u18638.png" crc="191241377" ref="index"/>
+    <file name="u18638-r.png" crc="417462967" ref="index"/>
+    <file name="u18638-a.png" crc="417462967" ref="index"/>
+    <file name="u18680.png" crc="3887058227" ref="index"/>
+    <file name="u18680-r.png" crc="394640271" ref="index"/>
+    <file name="u18680-a.png" crc="394640271" ref="index"/>
+    <file name="u18710.png" crc="324489832" ref="index"/>
+    <file name="u18710-r.png" crc="3995817781" ref="index"/>
+    <file name="u18710-a.png" crc="3995817781" ref="index"/>
+    <file name="download.jpg" crc="453087487" ref="καφεδεσ:κρασια:ποτα"/>
+    <file name="food-beans-coffee-drink.jpg" crc="445096856" ref="καφεδεσ:κρασια:ποτα"/>
+    <file name="u18988-4.png" crc="344869236" ref="καφεδεσ"/>
+    <file name="pack-u18966-fr.png" crc="3767960375" ref="καφεδεσ:κρασια:ποτα"/>
+    <file name="u19013-4.png" crc="5187712" ref="καφεδεσ"/>
+    <file name="pexels-photo-97050.jpg" crc="4253390797" ref="καφεδεσ:κρασια:ποτα"/>
+    <file name="restaurant-person-woman-coffee.jpg" crc="188851013" ref="καφεδεσ:κρασια:ποτα"/>
+    <file name="u19070-4.png" crc="5187712" ref="καφεδεσ"/>
+    <file name="u20252-4.png" crc="344869236" ref="κρασια"/>
+    <file name="u20245-4.png" crc="5187712" ref="κρασια"/>
+    <file name="u20244-4.png" crc="5187712" ref="κρασια"/>
+    <file name="u20403-4.png" crc="344869236" ref="ποτα"/>
+    <file name="u20393-4.png" crc="5187712" ref="ποτα"/>
+    <file name="u20396-4.png" crc="5187712" ref="ποτα"/>
   </folder>
-  <file name="index.html" crc="4097859120" seo="true" mt="1484524064419" redirect="true"/>
-  <file name="untitled-2.html" crc="4286400194" seo="true" mt="1484503413491" redirect="true"/>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="4021553005" ref="phone>index"/>
+      <file name="____.css" crc="279237556" ref="phone>ποτα"/>
+      <file name="index.css" crc="4258498612" ref="phone>index"/>
+      <file name="logistics.css" crc="279237556" ref="phone>logistics"/>
+      <file name="______.css" crc="279237556" ref="phone>κρασια"/>
+      <file name="___________.css" crc="279237556" ref="phone>επικοινωνια"/>
+      <file name="_______.css" crc="279237556" ref="phone>καφεδεσ"/>
+    </folder>
+    <file name="index.html" crc="447805118" seo="true" mt="1485603603231" redirect="true"/>
+    <file name="καφεδεσ.html" crc="4169797072" seo="true" mt="1485595037000" redirect="false"/>
+    <file name="κρασια.html" crc="4129429752" seo="true" mt="1485595037026" redirect="false"/>
+    <file name="ποτα.html" crc="33691759" seo="true" mt="1485595037051" redirect="false"/>
+    <file name="επικοινωνια.html" crc="4210105924" seo="true" mt="1485595037082" redirect="false"/>
+    <file name="logistics.html" crc="393748705" seo="true" mt="1485595037108" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="4205737548" seo="true" mt="1485606802605" redirect="true"/>
+  <file name="καφεδεσ.html" crc="444072386" seo="true" mt="1485606802601" redirect="true"/>
+  <file name="κρασια.html" crc="471181833" seo="true" mt="1485606802601" redirect="true"/>
+  <file name="ποτα.html" crc="4197723150" seo="true" mt="1485606802601" redirect="true"/>
+  <file name="επικοινωνια.html" crc="3798839374" seo="true" mt="1485606802601" redirect="true"/>
+  <file name="logistics.html" crc="4266676837" seo="true" mt="1485606802601" redirect="true"/>
 </manifest>
