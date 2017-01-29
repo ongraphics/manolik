@@ -42,8 +42,8 @@ window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
-$('#u19119').registerOpacityScrollEffect([{"in":[-Infinity,1400],"fade":0,"opacity":100},{"in":[1400,1400],"opacity":100},{"in":[1400,Infinity],"fade":50,"opacity":100}]);/* scroll effect */
-$('#u19125').registerOpacityScrollEffect([{"in":[-Infinity,1454.35],"fade":0,"opacity":100},{"in":[1454.35,1454.35],"opacity":100},{"in":[1454.35,Infinity],"fade":50,"opacity":100}]);/* scroll effect */
+$('#u19119').registerOpacityScrollEffect([{"fade":0,"in":[-Infinity,1400],"opacity":100},{"in":[1400,1400],"opacity":100},{"fade":50,"in":[1400,Infinity],"opacity":100}]);/* scroll effect */
+$('#u19125').registerOpacityScrollEffect([{"fade":0,"in":[-Infinity,1454.35],"opacity":100},{"in":[1454.35,1454.35],"opacity":100},{"fade":50,"in":[1454.35,Infinity],"opacity":100}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
